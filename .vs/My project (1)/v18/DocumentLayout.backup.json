@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Tesis\\PrototipoUnity\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\usuario\\tesis\\prototipounity\\my project (1)\\assets\\juego\\scripts\\posedotsoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\juego\\scripts\\posedotsoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\usuario\\tesis\\prototipounity\\my project (1)\\assets\\juego\\scripts\\holafeedbacktext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\juego\\scripts\\holafeedbacktext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\usuario\\tesis\\prototipounity\\my project (1)\\assets\\juego\\scripts\\holasigndetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\juego\\scripts\\holasigndetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PoseDotsOverlay.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Tesis\\PrototipoUnity\\My project (1)\\Assets\\Juego\\Scripts\\PoseDotsOverlay.cs",
+              "RelativeDocumentMoniker": "Assets\\Juego\\Scripts\\PoseDotsOverlay.cs",
+              "ToolTip": "C:\\Users\\usuario\\Tesis\\PrototipoUnity\\My project (1)\\Assets\\Juego\\Scripts\\PoseDotsOverlay.cs",
+              "RelativeToolTip": "Assets\\Juego\\Scripts\\PoseDotsOverlay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T02:03:12.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Holafeedbacktext.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Tesis\\PrototipoUnity\\My project (1)\\Assets\\Juego\\Scripts\\Holafeedbacktext.cs",
+              "RelativeDocumentMoniker": "Assets\\Juego\\Scripts\\Holafeedbacktext.cs",
+              "ToolTip": "C:\\Users\\usuario\\Tesis\\PrototipoUnity\\My project (1)\\Assets\\Juego\\Scripts\\Holafeedbacktext.cs",
+              "RelativeToolTip": "Assets\\Juego\\Scripts\\Holafeedbacktext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T01:10:13.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HolaSignDetector.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Tesis\\PrototipoUnity\\My project (1)\\Assets\\Juego\\Scripts\\HolaSignDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Juego\\Scripts\\HolaSignDetector.cs",
+              "ToolTip": "C:\\Users\\usuario\\Tesis\\PrototipoUnity\\My project (1)\\Assets\\Juego\\Scripts\\HolaSignDetector.cs",
+              "RelativeToolTip": "Assets\\Juego\\Scripts\\HolaSignDetector.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAUwK8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T01:10:09.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
